@@ -5,8 +5,8 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/ваш-username/название-репозитория.git
-cd название-репозитория
+git clone https://github.com/sloobman/auth-system.git
+cd auth-system
 ```
 
 ### 2. Запуск серверной части
